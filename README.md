@@ -1,1 +1,3 @@
-# Workshop-Data-Lakehouse
+##  Workshop Data Lakehouse
+
+Durante anos os Data Warehouses e Data Lakes dominaram o cenário do armazenamento de dados. Data Warehouses, tradicionais e orientados a fontes de dados estruturados, centralizam dados relevantes para a empresa. Com o Big Data e a imensa quantidade de dados não estruturados, o Data Lake ganhou espaço.As empresas trabalham com ambas soluções em conjunto para flexibilizar as análises. Elas representam um alto custo para as organizações que mantém pipelines de dados complexos e de alta performance, além de ocasionarem silos de dados.O Lakehouse une e potencializa as vantagens de cada um desses mundos. Nesta palestra apresentaremos na prática como se implementa essa arquitetura, com o Spark.
