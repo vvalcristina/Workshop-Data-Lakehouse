@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#pip install -r requirements.txt
 python -m spacy download pt
 
 ### Spark monitor
 #pip install jupyterlab-sparkmonitor # no supported for spark 3.1.1
+#pip install -r requirements.txt
 #pip install sparkmonitor
 #
 #sudo -E pip install jupyter_contrib_nbextensions
