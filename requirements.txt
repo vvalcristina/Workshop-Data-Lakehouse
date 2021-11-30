@@ -1,2 +1,2 @@
 pyspark==3.0.0
-delta-spark
+delta-spark==0.9.0
