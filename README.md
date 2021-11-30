@@ -1,3 +1,20 @@
 ##  Workshop Data Lakehouse
 
-Durante anos os Data Warehouses e Data Lakes dominaram o cenário do armazenamento de dados. Data Warehouses, tradicionais e orientados a fontes de dados estruturados, centralizam dados relevantes para a empresa. Com o Big Data e a imensa quantidade de dados não estruturados, o Data Lake ganhou espaço.As empresas trabalham com ambas soluções em conjunto para flexibilizar as análises. Elas representam um alto custo para as organizações que mantém pipelines de dados complexos e de alta performance, além de ocasionarem silos de dados.O Lakehouse une e potencializa as vantagens de cada um desses mundos. Nesta palestra apresentaremos na prática como se implementa essa arquitetura, com o Spark.
+A arquitetura do Data Lakehouse tem como objetivo resolver estes desafios enfrentados no Data Warehouse e Data Lake para reduzir os custos operacionais, simplificar o processo de transformação e melhorar a governança. Este repositório contém um exemplo prático com Spark de implementação da arquitetura de Lakehouse utilizando o [Delta Lake](https://docs.delta.io/latest/quick-start.html).
+
+### Utilização:
+
+* Subindo o container:
+
+```bash
+  docker-compose up -d
+```
+
+* Acesse o Jupyter no endereço `http://localhost:8888`.
+
+* Para para o container utilize:
+
+```bash
+  docker-compose down
+```
+
