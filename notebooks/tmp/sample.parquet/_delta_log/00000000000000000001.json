@@ -1,0 +1,19 @@
+{"commitInfo":{"timestamp":1638407295126,"operation":"MERGE","operationParameters":{"predicate":"(persisteddata.`id` = newdata.`id`)","matchedPredicates":"[{\"actionType\":\"update\"}]","notMatchedPredicates":"[{\"actionType\":\"insert\"}]"},"readVersion":0,"isBlindAppend":false,"operationMetrics":{"numTargetRowsCopied":"0","numTargetRowsDeleted":"0","numTargetFilesAdded":"11","executionTimeMs":"0","numTargetRowsInserted":"3","scanTimeMs":"1760","numTargetRowsUpdated":"7","numOutputRows":"10","numSourceRows":"10","numTargetFilesRemoved":"7","rewriteTimeMs":"2495"}}}
+{"remove":{"path":"part-00005-f8222d15-ff5a-49ac-abb9-935a6ada6a1c-c000.snappy.parquet","deletionTimestamp":1638407295105,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2239}}
+{"remove":{"path":"part-00001-f069463c-8b2c-476a-bd72-b667595684c8-c000.snappy.parquet","deletionTimestamp":1638407295126,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2237}}
+{"remove":{"path":"part-00002-91d6f726-1cf4-42a1-9af4-87ddfe98aa59-c000.snappy.parquet","deletionTimestamp":1638407295126,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2120}}
+{"remove":{"path":"part-00003-d2bc9a11-3bc3-448f-a242-d7ece5b4c109-c000.snappy.parquet","deletionTimestamp":1638407295126,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2093}}
+{"remove":{"path":"part-00007-84111687-0f39-40ad-8b98-60f91f3f1771-c000.snappy.parquet","deletionTimestamp":1638407295126,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2152}}
+{"remove":{"path":"part-00006-2759015a-24f6-4b85-937d-7a10b88d478c-c000.snappy.parquet","deletionTimestamp":1638407295126,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2221}}
+{"remove":{"path":"part-00004-0e109cdc-c1e9-4770-af27-80afede1bfb6-c000.snappy.parquet","deletionTimestamp":1638407295126,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2273}}
+{"add":{"path":"part-00000-c221fa8a-7d37-44d5-a735-ef92ed44bfb9-c000.snappy.parquet","partitionValues":{},"size":897,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00011-cc8a1ca8-5345-40a1-9db6-d7b3c8f62e19-c000.snappy.parquet","partitionValues":{},"size":2152,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00045-1a72366d-2a90-4b6e-b56c-e4fdf1dc2e12-c000.snappy.parquet","partitionValues":{},"size":2221,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00049-64e7c996-6374-4cdb-8b69-47317a9522f4-c000.snappy.parquet","partitionValues":{},"size":2230,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00068-e66ad8aa-ab7e-4fea-bffe-79f599a7e311-c000.snappy.parquet","partitionValues":{},"size":2239,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00069-161b13f7-152b-4124-92fe-ee2f19fa1182-c000.snappy.parquet","partitionValues":{},"size":2237,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00077-c95d52d8-ce81-4f41-b20b-788d1e2daef0-c000.snappy.parquet","partitionValues":{},"size":2194,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00107-b5484320-e22c-463a-80c9-3eb04a7b965f-c000.snappy.parquet","partitionValues":{},"size":2093,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00116-0fafbaf3-b602-4473-aaaa-78006e7dbd16-c000.snappy.parquet","partitionValues":{},"size":2210,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00128-5e4bfa31-00c9-4207-8a8f-6e5872589074-c000.snappy.parquet","partitionValues":{},"size":2120,"modificationTime":1638407293000,"dataChange":true}}
+{"add":{"path":"part-00140-dae73f1c-38cb-41ed-8efc-f7d33ab53e2b-c000.snappy.parquet","partitionValues":{},"size":2273,"modificationTime":1638407293000,"dataChange":true}}
